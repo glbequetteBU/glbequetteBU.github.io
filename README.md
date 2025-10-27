@@ -6,3 +6,11 @@ Today, good luck on your exam!!! I know you're gonna kill it and do amazing and 
 On another note, I'm sorry about how I've been acting recently and I promise you that I WILL get better, you really do mean the world to me and I appreciate you so much for bearing with me while I figure myself out.
 
 I love you so much honey! Have a great morning while I'm still sleeping!
+
+
+Joke of the Day: Why did the scarecrow win an award?
+
+
+Because he was outstanding in his field!
+
+<3
