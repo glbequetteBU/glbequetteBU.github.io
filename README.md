@@ -1,16 +1,11 @@
-Hi honey!
-Save this website as I'll be using it to give you some daily motivation!
+Good Morning my beautiful ray of sunshine!!!! I hope you slept well last night and that you're nice and awake and ready for your chem lab this morning. Hopefully you do something super fun in your lab today! Don't forget to wear real close-toed shoes and bring your super fancy lab coat!
 
-Today, good luck on your exam!!! I know you're gonna kill it and do amazing and perfect!!! I will learn how to get better at this but for now unfortunately this is all I can do. I love you so much and I know you're sleeping so tight right now!
-
-On another note, I'm sorry about how I've been acting recently and I promise you that I WILL get better, you really do mean the world to me and I appreciate you so much for bearing with me while I figure myself out.
-
-I love you so much honey! Have a great morning while I'm still sleeping!
+Here's todays joke to help lift those early morning spirits!
 
 
-Joke of the Day: Why did the scarecrow win an award?
+Joke of the Day: I only know 25 letters of the alphabet.
 
 
-Because he was outstanding in his field!
+I don’t know y!
 
 <3
