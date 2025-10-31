@@ -1,11 +1,7 @@
-Good Morning my beautiful ray of sunshine!!!! I hope you slept well last night and that you're nice and awake and ready for your chem lab this morning. Hopefully you do something super fun in your lab today! Don't forget to wear real close-toed shoes and bring your super fancy lab coat!
+BOO!!! I hope I scared you!!!! Happy Halloween Sweetheart!!! I hope you have a good morning and day today! I know you're gonna be up late drinking and being scared with Ryan but please just be responsible, I love you and I care about you more than you know and I just want you to be okay.
 
-Here's todays joke to help lift those early morning spirits!
+Joke Of The Day: Why don’t skeletons ever go trick-or-treating alone?
 
-
-Joke of the Day: I only know 25 letters of the alphabet.
-
-
-I don’t know y!
+Because they don’t have the guts!
 
 <3
