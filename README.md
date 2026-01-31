@@ -1,7 +1,59 @@
-BOO!!! I hope I scared you!!!! Happy Halloween Sweetheart!!! I hope you have a good morning and day today! I know you're gonna be up late drinking and being scared with Ryan but please just be responsible, I love you and I care about you more than you know and I just want you to be okay.
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Redirect Choice</title>
+    <style>
+        body {
+            font-family: sans-serif;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            height: 100vh;
+            margin: 0;
+            background-color: #f4f4f9;
+        }
+        .container {
+            text-align: center;
+            padding: 20px;
+            background: white;
+            border-radius: 8px;
+            box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+        }
+        button {
+            padding: 10px 25px;
+            margin: 10px;
+            font-size: 16px;
+            cursor: pointer;
+            border: none;
+            border-radius: 4px;
+            transition: opacity 0.2s;
+        }
+        .btn-yes { background-color: #4CAF50; color: white; }
+        .btn-no { background-color: #f44336; color: white; }
+        button:hover { opacity: 0.8; }
+    </style>
+</head>
+<body>
 
-Joke Of The Day: Why don’t skeletons ever go trick-or-treating alone?
+    <div class="container">
+        <h1>Would you like to proceed?</h1>
+        <button class="btn-yes" onclick="handleYes()">Yes</button>
+        <button class="btn-no" onclick="handleNo()">No</button>
+    </div>
 
-Because they don’t have the guts!
+    <script>
+        function handleYes() {
+            // Replace the URL below with your destination
+            window.location.href = "https://www.google.com";
+        }
 
-<3
+        function handleNo() {
+            alert("You chose No. Staying on this page!");
+        }
+    </script>
+
+</body>
+</html>
